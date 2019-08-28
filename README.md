@@ -1,2 +1,3 @@
 # AESoP
-Autonomous Experimental Submersible Platform
+Autonomous Experimental Submersible Platform<br>
+No code yet just an idea: Saw a submersible on You tube made with a water pitcher and lego parts. Got me to thinking .....
